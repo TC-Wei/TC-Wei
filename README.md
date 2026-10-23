@@ -11,6 +11,7 @@ React｜串接 Open-Meteo API，處理非同步載入與錯誤狀態 [線上展�
 Java Servlet / JSP + jQuery｜jQuery AJAX 查詢庫存、勾選刪除後重算數量 [原始碼](https://github.com/TC-Wei/wms-practice)
 ### 計算機
 原生 JavaScript / jQuery 兩版｜零框架手刻程式碼，還原 Figma 設計稿 
+
 原生 JS：[線上展示](https://tc-wei.github.io/calculator/)・[原始碼](https://github.com/TC-Wei/calculator)
 
 jQuery：[線上展示](https://tc-wei.github.io/calculator-jquery/)・[原始碼](https://github.com/TC-Wei/calculator-jquery)
