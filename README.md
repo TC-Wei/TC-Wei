@@ -2,7 +2,7 @@
 前端工程師｜台南。企管背景轉職，程式碼皆自行撰寫並能逐行解釋。
 ## 作品
 ### 松風鍋物訂位系統
-React + Ant Design｜人數上限連動、三階段表單、姓名／手機／Email 驗證、響應式版面 [線上展示](https://restaurant-reservation-practice.vercel.app/)・[原始碼](https://github.com/TC-Wei/Restaurant-reservation-practice)
+React + Ant Design｜人數上限連動、三階段表單、姓名／手機／Email 驗證、響應式版面、訂位寫入 Supabase [線上展示](https://restaurant-reservation-practice.vercel.app/)・[原始碼](https://github.com/TC-Wei/Restaurant-reservation-practice)
 ### 松風訂位管理後台
 React + TypeScript + Ant Design + Supabase｜店員登入、Row Level Security 權限、日期篩選、當日統計、修改訂位狀態、防重複訂位[線上展示](https://songfeng-admin.vercel.app)・[原始碼](https://github.com/TC-Wei/songfeng-admin)
 ### 台南天氣查詢
